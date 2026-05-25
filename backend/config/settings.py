@@ -89,7 +89,7 @@ DATABASES = {
 }
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "http://localhost:5174",  # Vite default
+    "http://localhost:5173",  # Vite default
 ]
 
 # Password validation
